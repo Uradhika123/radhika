@@ -1,0 +1,16 @@
+class Area
+{
+ static void area()
+ {
+ final float pi=3.142f;
+  int r=5;
+   result=pi*r*r;
+  System.out.println(result);
+  return;
+  }
+
+  public static void main(String[] args)
+  {
+  area();
+  }
+}
